@@ -138,5 +138,6 @@ int main(int argc, char **argv)
     exit(1);
   }
   printf("Time = %f sec, rate = %g flops/sec\n", elapsed, flops);
+  
   return 0;
 }
